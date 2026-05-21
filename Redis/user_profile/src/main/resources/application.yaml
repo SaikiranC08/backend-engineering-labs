@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user_profile
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
